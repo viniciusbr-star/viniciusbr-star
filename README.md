@@ -15,9 +15,9 @@
 
 <div align="start">
   <h3>Frontend</h3>
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div>
 
@@ -27,17 +27,20 @@
 
 <div align="start">
   <h3>Backend</h3>
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Vini-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-<div align="start">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
   
-  <h3>Banco de Dados</h3>
-
-  <img align="center" alt="vINI-mYsql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<div align="start">
+  <h4 align="start">Banco de Dados</h4>
+<p align="start">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+</div>
 
 # 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/viini7__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: vinicius.o.silva15@aluno.senai.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,7 +51,13 @@
 
 <div align="start">
 <h2>📕 Experiências Profissionais</h2>
-Minha jornada profissional na área de tecnologia é focada no desenvolvimento de soluções web, com experiência prática em criação de sites e landing pages otimizadas. Gosto de transformar ideias em realidade digital, e minha dedicação me levou a conquistar o segundo lugar em um hackathon, onde pude aplicar minhas habilidades de forma competitiva e colaborativa. Busco constantemente novos desafios para expandir meu conhecimento e aprimorar minhas competências em programação, sempre pronto para mergulhar em projetos inovadores e contribuir para a construção de um futuro tecnológico mais eficiente.
+- Focado em soluções web: Minha jornada é impulsionada pela paixão em transformar ideias em realidade digital, com experiência prática na criação de sites e landing pages otimizadas.
+
+- Participação em Hackathon: Conquistei o segundo lugar em uma competição que foi uma experiência indescritível e única.
+
+  - Resultados: A prova de que a dedicação e o trabalho em equipe podem gerar resultados incríveis sob pressão.
+
+-Busca por crescimento: Estou sempre em busca de novos desafios para aprofundar meu conhecimento e contribuir com o dinamismo do mundo da programação.
 </div>
 
 ##
